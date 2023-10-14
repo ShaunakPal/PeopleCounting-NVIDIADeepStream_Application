@@ -1,0 +1,7 @@
+cmake-build-debug
+.idea
+ds_sch_people_count
+*.jpg
+*.o
+/build
+*.engine
